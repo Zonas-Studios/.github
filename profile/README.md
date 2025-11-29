@@ -3,7 +3,7 @@
 All code is ***private***, so we kindly ask you to not open any issues regarding our code. 
 If you would like to give us feedback, don't hesitate! We would love to hear from you!
 
-We are currently working on: [**[🏗️] Franchise Tycoon**]((https://www.roblox.com/games/126744259749156/Franchise-Tycoon)
+We are currently working on: [**[🏗️] Franchise Tycoon**](https://www.roblox.com/games/126744259749156/Franchise-Tycoon)
 
 <!--
 
